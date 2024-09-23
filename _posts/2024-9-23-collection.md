@@ -1,3 +1,11 @@
+---
+layout: post
+title: My Collection
+subtitle: Each post also has a subtitle
+categories: markdown
+tags: [example, markdown]
+---
+
 # Nas相关
 
 [123网盘直达链接](https://www.123pan.com/s/wgO8Vv-xdKP3.html)
