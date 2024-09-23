@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="/jekyll-theme-yat/" rel="alternate" type="text/html" /><updated>2024-09-23T08:50:45+00:00</updated><id>/jekyll-theme-yat/feed.xml</id><title type="html">Oops’s Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Oops</name></author><entry><title type="html">My Collection</title><link href="/jekyll-theme-yat/markdown/2024/09/23/collection.html" rel="alternate" type="text/html" title="My Collection" /><published>2024-09-23T00:00:00+00:00</published><updated>2024-09-23T00:00:00+00:00</updated><id>/jekyll-theme-yat/markdown/2024/09/23/collection</id><content type="html" xml:base="/jekyll-theme-yat/markdown/2024/09/23/collection.html"><![CDATA[<h1 id="nas相关">Nas相关</h1>
+
+<p><a href="https://www.123pan.com/s/wgO8Vv-xdKP3.html">123网盘直达链接</a></p>
+
+<ul>
+  <li><a href="#安卓应用">安卓应用</a>
+    <ul>
+      <li><a href="#ds-app">DS APP</a></li>
+      <li><a href="#群晖助手">群晖助手</a></li>
+      <li><a href="#emby客户端">EMBY客户端</a></li>
+      <li><a href="#jellyfin客户端">Jellyfin客户端</a></li>
+      <li><a href="#辅助工具">辅助工具</a></li>
+      <li><a href="#其他">其他</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="安卓应用">安卓应用</h2>
+
+<h3 id="ds-app">DS APP</h3>
+<ul>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-ActiveInsight/1.1.0-099/Android-SynologyActiveInsight.1.1.0-99.cn.apk"><strong>Active Insight App</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-DSaudio/3.15.4-524/Android-DSaudio.3.15.4-524.cn.apk"><strong>DS audio App</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-DScam/3.8.2-1102/Android-DScam.3.8.2-1102.cn.apk"><strong>DS cam App</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-DSfile/4.17.1-588/Android-DSfile.4.17.1-588.cn.apk"><strong>DS file App</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-DSfinder/2.5.2-449/Android-DSfinder.2.5.2-449.cn.apk"><strong>群晖管家</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-DSdownload/1.12.5-172/Android-DSdownload.1.12.5-172.apk"><strong>DS get App</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-DSnote/1.11.7-318/Android-DSnote.1.11.7-318.cn.apk"><strong>DS note App</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/AndroidTV-DSvideo/1.1.7-10060/AndroidTV-DSvideo.1.1.7-10060.apk"><strong>DS video (Android TV)</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-DSvideo/3.4.7-328/Android-DSvideo.3.4.7-328.cn.apk"><strong>DS video</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-LiveCam/1.1.2-165/Android-LiveCam.1.1.2-165.ww.apk"><strong>Synology LiveCam</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-Drive/3.5.1-940/Android-SynologyDrive.3.5.1-940.cn.apk"><strong>Synology Drive App</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-DSmail/2.7.0-833/Android-SynologyMailPlus.2.7.0-833.cn.apk"><strong>Synology MailPlus App</strong></a></li>
+  <li><a href="https://global.synologydownload.com/download/Mobile/Android-Photos/2.0.1-454/Android-SynologyPhotos.2.0.1-454.cn.apk"><strong>Synology Photos App</strong></a></li>
+</ul>
+
+<h3 id="群晖助手">群晖助手</h3>
+<ul>
+  <li>发布地址-https://gitee.com/apaipai/dsm_helper/releases</li>
+</ul>
+
+<h3 id="emby客户端">EMBY客户端</h3>
+<ul>
+  <li><a href="https://t.me/EmbyNoisyX/61"><strong>小秘全家桶</strong></a>-之前很长一段时间内唯一能用的安卓客户端，并且针对不同情况有各种魔改版本（tg）</li>
+  <li><a href="https://t.me/SaltSoupGarage/563"><strong>Emby kirlif版</strong></a>-跟着官方版本一同更新的，前端较新，并且可以竖屏播放看短剧（tg）</li>
+  <li><a href="https://t.me/yamby_release/6"><strong>Yamby</strong></a>-新的第三方客户端，使用体验极佳，响应速度快和动效都非常丝滑，快捷操作也更符合现代操作，未来会登录google商店（tg）</li>
+  <li><a href="https://github.com/ourfor/iPlayClient"><strong>Iplay</strong></a>-多平台的一款开源的客户端，目前还处于项目早期，可以体验一下试试。（github）</li>
+  <li><a href="https://github.com/AttemptD/AfuseKt-release/releases"><strong>AfuseKt</strong></a>-闭源的安卓客户端，可以连接多个网盘并自动进行刮削，虽然能够连接emby，但使用和播放并不如上述几个（github）</li>
+</ul>
+
+<h3 id="jellyfin客户端">Jellyfin客户端</h3>
+
+<h3 id="辅助工具">辅助工具</h3>
+<ul>
+  <li><a href=""><strong>qbittorrent</strong></a>-安卓端qb管理工具</li>
+  <li><a href=""><strong>home assistant</strong></a>-homeassistant安卓端官方版</li>
+  <li><a href="https://www.123pan.com/s/wgO8Vv-uEuP3.html"><strong>authenticator</strong></a>-安卓两步验证授权器</li>
+  <li><a href="https://www.123pan.com/s/wgO8Vv-7EuP3.html"><strong>slack</strong></a>-Slack_24.02.20官方版</li>
+  <li><a href="https://www.123pan.com/s/wgO8Vv-lEuP3.html"><strong>juiceSSH</strong></a>-JuiceSSH官方版</li>
+  <li><a href=""><strong>telegram</strong></a>-懂得都懂，最强聊天工具</li>
+  <li><a href="https://www.123pan.com/s/wgO8Vv-UEuP3.html"><strong>tailscale</strong></a>-组网工具Tascale官方客户端</li>
+  <li><a href=""><strong>clash</strong></a>-魔法小猫咪</li>
+</ul>
+
+<h3 id="其他">其他</h3>
+<ul>
+  <li><a href="https://wwi.lanzoui.com/b05g1bwf"><strong>我的听书</strong></a>-聚合各方听书书源，折腾性强，<a href="https://pan.lanzoux.com/b873905">地址2</a></li>
+  <li><a href="https://github.com/xiaoyaocz/dart_simple_live/releases"><strong>Sinple Live</strong></a>-简简单单的看直播</li>
+  <li><a href="https://github.com/liuchuancong/pure_live"><strong>Pure Live</strong></a>-第三方直播播放器,<a href="https://www.123pan.com/s/Jucxjv-NwYYd.html">123盘</a></li>
+  <li><a href="https://wwtc.lanzouq.com/b0aja4qoj"><strong>影视仓</strong></a>-TVbox分发应用，蓝奏云提取码：2615</li>
+  <li><a href="https://github.com/XIU2/Yuedu"><strong>阅读</strong></a>-电子书阅读软件天花板，项目内含书源及TTS</li>
+  <li><a href="https://github.com/xlist-io/xlist"><strong>Xlist</strong></a>- Alist 客户端，你可以在这里配置多个 Alist 服务器进行文件管理和预览</li>
+  <li><a href="https://www.123pan.com/s/wgO8Vv-SEuP3.html"><strong>FolderSyncPro</strong></a>-安卓端文件夹双向同步神器</li>
+</ul>
+
+<h2 id="iosmac">iOS/mac</h2>
+
+<h2 id="pc">PC</h2>
+<ul>
+  <li>
+    <p>PotPlayer 美化增强（Windows Xp 系统建议使用 1.7.19955 版本）</p>
+
+    <blockquote>
+      <p>城通盘：https://z701.com/d/12483661-18367259-bcf88e 访问码：3333</p>
+
+      <p>夸克盘：https://pan.quark.cn/s/9236da2a44ea</p>
+
+      <p>天翼云：https://cloud.189.cn/t/mQreueuuiM3u</p>
+
+      <p>蓝奏云：https://www.lanzoui.com/b00zpcsja 密码：6fdn</p>
+
+      <p>阿里云：https://alywp.net/6SFwRp</p>
+
+      <p>123 云：https://www.123pan.com/s/QdiA-2c4mh</p>
+    </blockquote>
+  </li>
+  <li></li>
+</ul>]]></content><author><name>Oops</name></author><category term="markdown" /><category term="example" /><category term="markdown" /><summary type="html"><![CDATA[Nas相关]]></summary></entry></feed>
